@@ -11,6 +11,8 @@ public class PanelConfiguracion extends JPanel {
     private JLabel lbDif;
     private int tamano;
     
+    
+    
     public PanelConfiguracion() {
         setLayout(new FlowLayout(FlowLayout.CENTER, 10, 10));
         setBackground(new Color(22, 135, 209));
